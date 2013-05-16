@@ -1,0 +1,3 @@
+recursive-include js/blocksit/resources *.js
+recursive-include js/blocksit *.txt
+include *.txt
